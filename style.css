@@ -75,3 +75,34 @@
     border-bottom-right-radius: 4px;
     color: black;
 }
+span{
+    font-size: 0.85rem;
+}
+.second-nav{
+    font-weight: 700;
+}
+.nav-curt i{
+    font-size: 30px;
+}
+.nav-curt{
+    font-size: 0.85rem;
+}
+/** second-nav-menu **/
+.menu-nav{
+    height: 39px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+
+}
+.menu-nav-ops-panel p{
+    display: inline;
+    margin-left: 15px;
+}
+.menu-nav-ops-panel{
+    width: 70%;
+    font-size: 0.85rem;
+}
